@@ -8,7 +8,8 @@ The application can be compiled as follows:
 
 The application can be run as follows:
 
-    java Main [file1] [file2] ... [fileN] , where the [file ] argument can be either a directory or a simple file (in case it's a directory all the java files in it and any subdirectories of it will be translated to .ll files)
+    java Main [file1] [file2] ... [fileN] 
+, where the [file ] argument can be either a directory or a simple file (in case it's a directory all the java files in it and any subdirectories of it will be translated to .ll files)
     
 The .ll files are stored in the same path as their correspondent .java files and can be compiled and executed as follows:
 
